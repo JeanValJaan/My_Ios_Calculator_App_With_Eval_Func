@@ -116,7 +116,9 @@ button {
     font:400 13.3333px Arial;
     padding:1px 6px;
     background-color: transparent;
+    
 }
+button:focus { outline:none }
 .black{
     background-color:rgb(164,164,164);
     color:black;
